@@ -9,3 +9,4 @@ Sovereign Infrastructure for Maritime, Aerospace, and Civil Defense
 ​Aerospace: High-albedo, impact-resistant skins for satellites and habitats.
 ​Civil: Seismic vibration damping for bridges and high-rise infrastructure.
 ​Robotics: Haptic-reflex shielding for high-G terrestrial operations.
+For a deep dive into the engineering logic, read our First Principles Analysis.
