@@ -10,3 +10,22 @@ Sovereign Infrastructure for Maritime, Aerospace, and Civil Defense
 ​Civil: Seismic vibration damping for bridges and high-rise infrastructure.
 ​Robotics: Haptic-reflex shielding for high-G terrestrial operations.
 For a deep dive into the engineering logic, read our First Principles Analysis.
+---
+
+## 🏛️ Commercial Inquiries & Strategic Partnerships
+
+While this repository is licensed under the **GNU GPL v3.0** to ensure the free dissemination of knowledge and technical resilience, we recognize the specific requirements of enterprise-scale aviation, logistics, and infrastructure.
+
+**Project Kinetic offers a Dual-Licensing Pathway:**
+* **Sovereign Path (GPL v3.0):** Ideal for open-source development, academic research, and community resilience.
+* **Enterprise Path (Custom):** For organizations requiring proprietary integration, specialized indemnification, or "Clean-Room" implementation without the "copyleft" requirements of the GPL.
+
+**We are currently seeking partners for:**
+1.  **Ground-Fleet Pilot Programs:** Proving "Kinetic Skin" and "Cryo-Cage" tech on non-flight logistics vehicles.
+2.  **Aviation Technical Audits:** Facilitating "Sovereign-to-Systems" handshakes for fleet modernization.
+3.  **Collaborative R&D:** Customizing the Basalt-Polymer logic for specific airframe requirements.
+
+**Direct Inquiry:** [pkinetic4@gmail.com](mailto:pkinetic4@gmail.com)
+*Subject Line: Commercial Partnership Inquiry - project Kinetic 
+
+---
